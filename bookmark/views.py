@@ -8,6 +8,7 @@ from .models import Bookmark
 
 class BookmarkListView(ListView):
     model = Bookmark
+    paginate_by = 10
 
 
 class BookmarkCreateView(CreateView):
