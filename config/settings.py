@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-qtwjxnl@kr)wyt&uwx9v*oz*rq5p=mmade68v70a!u^pu46i%g'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'bookmark',
     'photo',
+    'accounts',
 ]
 
 MIDDLEWARE = [
