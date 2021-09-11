@@ -8,7 +8,4 @@ urlpatterns = [
     path('detail/<int:pk>/', BookmarkDetailVIew.as_view(), name='detail'),
     path('update/<int:pk>/', BookmarkUpdateView.as_view(), name='update'),
     path('delete/<int:pk>/', BookmarkDeleteView.as_view(), name='delete'),
-    # dfjksldfjklsdjfkldslkk
-    # dfjksldfjklsdjfkldslkk
-    # dfjksldfjklsdjfkldslkk
 ]
