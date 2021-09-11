@@ -1,4 +1,4 @@
-Python Django
+Python 3 Django
 ==========
 
 배프의 오지랖 파이썬 웹 프로그래밍 실습
