@@ -1,4 +1,4 @@
-Python Django dayun...
+Python Django dayun
 ==========
 
 배프의 오지랖 파이썬 웹 프로그래밍 실습
