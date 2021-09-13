@@ -1,6 +1,5 @@
-
 Python Django dayun...
-이건 dayun 브랜치닷!!!!
+이건 dayun 브랜치닷!!!! (dev다다다다다다다다다 )
 =======
 
 
