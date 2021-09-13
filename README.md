@@ -1,5 +1,5 @@
 Python Django dayun...
-이건 dayun 브랜치닷!!!! (찐 수정, dayun 이닷)
+이건 dayun 브랜치닷!!!! (resolved!!!!!!!!)
 =======
 
 
