@@ -1,4 +1,5 @@
 Python Django dayun
+dev에서 수정함
 ==========
 
 배프의 오지랖 파이썬 웹 프로그래밍 실습
