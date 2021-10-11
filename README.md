@@ -25,11 +25,3 @@ Python Django dayun...
 <pre>
 > python manage.py runserver
 </pre>
-
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
-# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
