@@ -1,5 +1,7 @@
-Python Django dayun
-==========
+Python Django dayun...
+
+=======
+
 
 배프의 오지랖 파이썬 웹 프로그래밍 실습
 (https://github.com/baepeu)
@@ -23,3 +25,11 @@ Python Django dayun
 <pre>
 > python manage.py runserver
 </pre>
+
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
+# 벌써 9/15 수요일 ㅋㅋㅋㅋ  여긴 dayun
